@@ -1,0 +1,21 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle for the icon -->
+  <circle cx="30" cy="30" r="25" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  
+  <!-- Medical cross symbol -->
+  <rect x="26" y="18" width="8" height="24" fill="white" rx="2"/>
+  <rect x="18" y="26" width="24" height="8" fill="white" rx="2"/>
+  
+  <!-- Pharmaceutical molecule dots -->
+  <circle cx="22" cy="15" r="2" fill="white" opacity="0.8"/>
+  <circle cx="38" cy="15" r="2" fill="white" opacity="0.8"/>
+  <circle cx="22" cy="45" r="2" fill="white" opacity="0.8"/>
+  <circle cx="38" cy="45" r="2" fill="white" opacity="0.8"/>
+  
+  <!-- Company name -->
+  <text x="65" y="25" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#28a745">INQOR</text>
+  <text x="65" y="42" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#64748b">PHARMACEUTICALS</text>
+  
+  <!-- Tagline -->
+  <text x="65" y="52" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="400" fill="#94a3b8" opacity="0.8">Adding Colors to Life</text>
+</svg>

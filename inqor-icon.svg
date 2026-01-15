@@ -1,0 +1,17 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="28" fill="#28a745" stroke="#1e7e34" stroke-width="2"/>
+  
+  <!-- Medical cross symbol -->
+  <rect x="24" y="15" width="12" height="30" fill="white" rx="3"/>
+  <rect x="15" y="24" width="30" height="12" fill="white" rx="3"/>
+  
+  <!-- Pharmaceutical molecule dots -->
+  <circle cx="18" cy="12" r="3" fill="white" opacity="0.9"/>
+  <circle cx="42" cy="12" r="3" fill="white" opacity="0.9"/>
+  <circle cx="18" cy="48" r="3" fill="white" opacity="0.9"/>
+  <circle cx="42" cy="48" r="3" fill="white" opacity="0.9"/>
+  
+  <!-- Small "I" in the center -->
+  <text x="30" y="38" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#28a745" text-anchor="middle">I</text>
+</svg>
